@@ -20,6 +20,16 @@ url = "https://www.example.com"
 display_qr_in_colab(url)
 ```
 
+## Screenshots
+
+### Demo QR Code
+![OR Code Demo](images/demo.png)
+
+### Menu Input
+![Menu Demo](images/menu1.png)
+![Menu Demo](images/menu2.png)
+
+
 ## How to Use
 - Run the notebook in Google Colab.
 - Choose a platform from the menu or enter a custom URL.
