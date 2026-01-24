@@ -23,11 +23,11 @@ display_qr_in_colab(url)
 ## Screenshots
 
 ### Demo QR Code
-![OR Code Demo](images/demo.png)
+![OR Code Demo](demo.png)
 
 ### Menu Input
-![Menu Demo](images/menu1.png)
-![Menu Demo](images/menu2.png)
+![Menu Demo](menu1.png)
+![Menu Demo](menu2.png)
 
 
 ## How to Use
