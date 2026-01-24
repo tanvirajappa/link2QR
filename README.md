@@ -21,15 +21,15 @@ display_qr_in_colab(url)
 ```
 
 ## How to Use
-Run the notebook in Google Colab.
-Choose a platform from the menu or enter a custom URL.
-A QR code will be displayed which can be scanned with any QR scanner.
+- Run the notebook in Google Colab.
+- Choose a platform from the menu or enter a custom URL.
+- A QR code will be displayed which can be scanned with any QR scanner.
 
 ## Technologies Used
-Python
-Google Colab
-qrcode library
-Matplotlib for visualization
+- Python
+- Google Colab
+- qrcode library
+- Matplotlib for visualization
 
 ## Author
 Tanvi Rajappa
