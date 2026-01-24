@@ -19,16 +19,16 @@ A Python-based tool to generate QR codes for websites and platforms, built using
 url = "https://www.example.com"
 display_qr_in_colab(url)
 
-How to Use
+## How to Use
 Run the notebook in Google Colab.
 Choose a platform from the menu or enter a custom URL.
 A QR code will be displayed which can be scanned with any QR scanner.
 
-Technologies Used
+## Technologies Used
 Python
 Google Colab
 qrcode library
 Matplotlib for visualization
 
-Author
+## Author
 Tanvi Rajappa
