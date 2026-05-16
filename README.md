@@ -1,5 +1,5 @@
 # link2QR
-link2QR is a Python-based tool built using Google Colab that converts website and platform links into scannable QR codes. The purpose of this project is to simplify link sharing and accessibility by enabling users to generate QR codes for their websites and online platforms, allowing quicker access through a simple scan instead of manually sharing long URLs.
+link2QR is a Python-based tool built using Google Colab that converts website and platform links into scannable QR codes. The purpose of this project is to simplify link sharing and accessibility by enabling users to generate QR codes for websites and online platforms, allowing quicker access through a simple scan instead of manually sharing long URLs.
 
 ---
 
