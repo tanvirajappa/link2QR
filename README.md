@@ -24,8 +24,11 @@ display_qr_in_colab(url)
 
 ### Demo QR Code
 ![OR Code Demo](demo.png)
-![OR Code Demo](demoqr.png)
-Example: QR generated for my Mobile Recharge Platform repository
+
+
+### Github Repository Example
+QR generated for my Mobile Recharge Platform repository
+![Mobile Recharge Repository QR](demoqr.png)
 
 
 ### Menu Input
